@@ -36,7 +36,7 @@ Multiple components and pages imported Google Fonts individually, causing redund
 - Creating a clean Pull Request.
 
 ## Pull Request
-(Add your PR URL here after it is created.)
+https://github.com/parthbuilds-community/FitMart/pull/572#issue-4631390317
 
 ## Status
 ✅ Submitted first open source PR 🎉
